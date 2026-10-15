@@ -3,10 +3,10 @@
     ".dockerignore": "a53b18f4ac3ebc529399930bb0b9d363e31ce32e8a6e734bbc4468d5a1310bbd",
     ".env.example": "1abbbf6ef05a9d326ac564f091581a133c998bf538f82924cb8bdcd10c55a8c1",
     ".gitignore": "3684929e41cf1741679993edc46196ffa14ebc4929b0a292121ed4521c93bcf7",
-    "CHANGELOG.md": "1129884ddbeae54a7f1835fafb73b8a7d7e3867dc1564dfd120b803943ad401c",
+    "CHANGELOG.md": "2dff55af8ffa8fe199ac836510526fcc58656888d1d38acea64244e2a6929382",
     "Dockerfile": "149e006bc99fd0dfeda38c2be7ed1c7fc6fa60bc010d013744529e6b4aa94af2",
     "README.md": "3bda9a7174dd31da342a3629844b81ba43b09208ce618f0472c6f08e8dbf4430",
-    "app/__init__.py": "75947e2cd1400e629669b4b0a48b0fde9859c742a7e33b5b74f0e240c7ea6d19",
+    "app/__init__.py": "277372e04ae06bea7cdbcb82ec5a5029328a41466b9d79b4f4e11fad476b75ce",
     "app/auth/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "app/auth/csrf.py": "ebc825450dd0cb8466389cdac808d58418642c4809fab925341664f16e26d67f",
     "app/auth/permissions.py": "2dcbc3792d15231a6f307dc31fba0460c51f069ada19b4250509b49e2c986d29",
@@ -22,7 +22,7 @@
     "app/db/pool.py": "1392671d6049f98dcb016e4a0037f9043dd1ed9cc9a95d5bf52b001915910253",
     "app/licensing/__init__.py": "de79822be7cedd5b0fbb089f5d69202ffcee20f90d910ba61cce078a630bbdb9",
     "app/licensing/client.py": "7efef429d05d4e6dea74fb8bb8a6d9c89a71a353ca47c7de086d0895bac2ca87",
-    "app/licensing/constants.py": "5954978648d4d283b0dd804e384f52213fea8ed840831fd8c5b134754d56ebda",
+    "app/licensing/constants.py": "a64cdb760a3d6443872106081a085bb2ffe37d2e501650fe32ab278222bb4ffc",
     "app/licensing/gate.py": "dd22bb7cb2e067bf593322f8f7eb1f8bfe8254d52a34efbcdd86c423717947c5",
     "app/licensing/manager.py": "803ba51f23072ca049cb8f82391728bf3567da04716567d93514aa8617bae798",
     "app/licensing/offline.py": "1c0035ea673e80ce9e1d35535da9c1ba03d1a7b9b1d62076e33a11c6434c74da",
@@ -121,9 +121,9 @@
     "start_single_host.py": "a617bc45291d464434e26d11020a64e7c2b67d250146f373e9caec1c362e2962"
   },
   "license_mode": "offline signed license file (Ed25519)",
-  "license_public_key": "3aBHyapi7rjP-l4qt7G37M7k-B_u9ht1RVvM1B-tm8s",
+  "license_public_key": "wdLw5Mvn2VsNKm__-VdHCXRJUx7fESuDpXqqoBlxF9E",
   "note": "SHA-256 of every file in this package. A private signing key is never part of a package.",
   "product": "telegram-auto-poster",
   "release_build": true,
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
